@@ -148,7 +148,7 @@ SudhanshuSharma= {
 Divyanshi2408_socials = {
   "twitter_handle": "Divyanshipal24",
   "likedin_handle": "divyanshi-pal-b66133210",
-  "facebook": "",
+  "facebook": " ",
   "telegram_handle": "Divyanshi pal",
 }
 ]
