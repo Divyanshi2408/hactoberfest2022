@@ -150,5 +150,5 @@ Divyanshi2408_socials = {
   "likedin_handle": "divyanshi-pal-b66133210",
   "facebook": "",
   "telegram_handle": "Divyanshi pal",
-}
+},
 ]
